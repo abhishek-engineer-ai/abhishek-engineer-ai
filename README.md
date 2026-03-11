@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhishek Singh
 
-<!--
-**abhishek-engineer-ai/abhishek-engineer-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer | LLM Engineer | Generative AI Developer
+### Ex-Accenture | Building with FastAPI & LangChain
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Quick Facts
+
+```yaml
+Current: Building LLM-powered applications with RAG
+Stack: Python, FastAPI, LangChain, OpenAI, Claude
+Focus: RAG, AI agents, LLMOps, Production APIs
+Roles: LLM Engineer • AI Engineer • GenAI Developer
+```
+---
+
+## Tech Stack
+Languages:
+Python, Java
+
+AI / LLM:
+LangChain, OpenAI, Claude
+
+Backend:
+FastAPI, Spring Boot, REST APIs
+
+Databases:
+PostgreSQL, ChromaDB, Pinecone, Redis
+
+Tools:
+Docker, Git
+
+---
+
+## Connect
+- Email: abhishek.engineer.ai@gmail.com
+- LinkedIn:
+- GitHub: [github.com/abhishek-engineer-ai](https://github.com/abhishek-engineer-ai)
