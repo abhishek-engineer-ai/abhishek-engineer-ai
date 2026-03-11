@@ -1,34 +1,42 @@
 # 👋 Hi, I'm Abhishek Singh
 
-### AI Engineer | LLM Engineer | Generative AI Developer
-### Ex-Accenture | Building with FastAPI & LangChain
+AI / LLM Engineer building LLM-powered applications
+with Python, FastAPI, LangChain, and RAG systems.
+
+Ex-Accenture
 
 ---
 
 ## ⚡ Quick Facts
 
 ```yaml
-Current: Building LLM-powered applications with RAG
+Roles: GenAI Developer • AI Engineer • LLM Engineer
 Stack: Python, FastAPI, LangChain, OpenAI, Claude
 Focus: RAG, AI agents, LLMOps, Production APIs
-Roles: LLM Engineer • AI Engineer • GenAI Developer
 ```
 ---
 
 ## Tech Stack
-Languages:
+
+Languages :
 Python, Java
 
-AI / LLM:
+AI / LLM :
 LangChain, OpenAI, Claude
 
-Backend:
+AI Techniques :
+RAG, Prompt Engineering, AI Agents
+
+Backend :
 FastAPI, Spring Boot, REST APIs
 
-Databases:
+Data / ML :
+NumPy, Pandas
+
+Databases :
 PostgreSQL, ChromaDB, Pinecone, Redis
 
-Tools:
+Tools :
 Docker, Git
 
 ---
